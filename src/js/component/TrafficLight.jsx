@@ -57,4 +57,8 @@ const TrafficLight = () => {
 		);
 };
 
+// BONUS (Pending...):
+// Countdown timer example:
+// https://blog.greenroots.info/how-to-create-a-countdown-timer-using-react-hooks
+
 export default TrafficLight;
